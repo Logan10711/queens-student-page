@@ -1,12 +1,12 @@
 :root {
-  --red:#aa1e22; --gold:#f2a900; --blue:#002d72; --white #FFFFFF;
+  --red:#aa1e22; --gold:#f2a900; --blue:#002d72; --white #FFFFFF; --black #1a1a1a;
 }
 body { font-family: system-ui, sans-serif; margin:0; background:var(--red); color:#aa1e22; }
 
 header { background:var(--gold); color:#FFFFFF; padding:1rem; }
 
-main { background:#1a1a1a; color:#FFFFFF; max-width:1000px; margin:2rem auto; border-radius:18px; padding:1.5rem; }
-a { color: var(--white); }
+main { background:#FFFFFF; color:#1a1a1a; max-width:1000px; margin:2rem auto; border-radius:18px; padding:1.5rem; }
+a { color: var(--black); }
 /* === personalize below by changing colors or spacing === */
 /* example: make headings blue and a bit larger */
 h2 { color: var(--blue); font-size: 1.6rem; }
