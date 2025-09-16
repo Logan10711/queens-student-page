@@ -5,7 +5,7 @@ body { font-family: system-ui, sans-serif; margin:0; background:var(--red); colo
 
 header { background:var(--white); color:#FFFFFF; padding:1rem; }
 
-main { background:#1a1a1a; color:#1a1a1a; max-width:1000px; margin:2rem auto; border-radius:18px; padding:1.5rem; }
+main { background:#1a1a1a; color:#FFFFFF; max-width:1000px; margin:2rem auto; border-radius:18px; padding:1.5rem; }
 a { color: var(--blue); }
 /* === personalize below by changing colors or spacing === */
 /* example: make headings blue and a bit larger */
