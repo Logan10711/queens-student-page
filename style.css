@@ -3,7 +3,7 @@
 }
 body { font-family: system-ui, sans-serif; margin:0; background:var(--red); color:#aa1e22; }
 
-header { background:var(--white); color:#FFFFFF; padding:1rem; }
+header { background:var(--blue); color:#FFFFFF; padding:1rem; }
 
 main { background:#1a1a1a; color:#FFFFFF; max-width:1000px; margin:2rem auto; border-radius:18px; padding:1.5rem; }
 a { color: var(--blue); }
